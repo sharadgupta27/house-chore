@@ -4,6 +4,10 @@ A shared household chores app. Multiple households, mobile-first, recurring
 chores with per-chore rotation among members, and escalating push nudges for
 accountability.
 
+Built as part of the [AI Dev Tools Zoomcamp](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp)
+homework 1, with an AI coding agent doing most of the implementation from a
+plan (see [`_docs/plan.md`](_docs/plan.md)).
+
 ## Scope
 
 - Multi-household, invite-based — anyone can create or join a household.
